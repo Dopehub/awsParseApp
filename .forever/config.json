@@ -1,0 +1,17 @@
+{
+  "root": "/opt/bitnami/apps/parse/.forever",
+  "pidPath": "/opt/bitnami/apps/parse/.forever/pids",
+  "sockPath": "/opt/bitnami/apps/parse/.forever/sock",
+  "loglength": 100,
+  "logstream": false,
+  "columns": [
+    "uid",
+    "command",
+    "script",
+    "forever",
+    "pid",
+    "id",
+    "logfile",
+    "uptime"
+  ]
+}
