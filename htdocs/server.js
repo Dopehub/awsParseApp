@@ -8,7 +8,7 @@ var api = new ParseServer({
     cloud: "./node_modules/parse-server/lib/cloud-code/Parse.Cloud.js",
     appId: "7acb0a4fae46f9d9ffb7812fb158af3e0274ad97",
     masterKey: "5d9037c4111c42719fa68b10bf82d5c4d95b4297",
-    fileKey: "xx",
+    fileKey: "xxx",
     serverURL: 'http://ec2-54-236-226-118.compute-1.amazonaws.com:80/parse'
 });
 // Serve the Parse API on the /parse URL prefix
